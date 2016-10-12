@@ -162,7 +162,6 @@ body {
 
 #introtext .head-sarah {
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 3.5em;
     line-height: 100%;
 }
 #introtext .amp {
@@ -549,7 +548,7 @@ section h2 {
     }
 
     #introtext .head-sarah {
-        font-size: 11em;
+        font-size: 9.5em;
     }
     #introtext .amp {
         top: 0;

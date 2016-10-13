@@ -163,6 +163,7 @@ body {
 #introtext .head-sarah {
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     line-height: 100%;
+	font-size:3em;
 }
 #introtext .amp {
     position: relative;

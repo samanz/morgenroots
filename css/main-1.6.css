@@ -167,7 +167,7 @@ body {
 }
 #introtext .amp {
     position: relative;
-    top: 19px;
+    top: 0px;
     margin-left: -10px;
     font-size: 0.7em;
 }

@@ -291,7 +291,7 @@ section {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(0, 0, 0);
     /* RGBa with 0.7 opacity */
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.9);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
